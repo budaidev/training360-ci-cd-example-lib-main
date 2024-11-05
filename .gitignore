@@ -1,0 +1,5 @@
+build/*
+dist/*
+venv/*
+*.db
+training360_example_lib.egg-info/
